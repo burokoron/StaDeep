@@ -13,3 +13,6 @@ Deep Learningを勉強する上で参考になる論文・資料・ライブラ�
 ### セグメンテーション
 ・[CaDIS: a Cataract Datasetで画像セグメンテーション](https://github.com/burokoron/StaDeep/tree/master/SegNet)  
 　CaDIS: a Cataract Datasetを対象に、SegNetでセマンティックセグメンテーションする。
+
+・[SegNetにスキップ構造を組み込んで性能比較(CaDIS: a Cataract Dataset)](https://github.com/burokoron/StaDeep/tree/master/U-Net)  
+CaDIS: a Cataract Datasetを対象に、SegNetにスキップ構造を組み込んだU-Netでセマンティックセグメンテーションする。
