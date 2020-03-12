@@ -10,6 +10,9 @@ Deep Learningを勉強する上で参考になる論文・資料・ライブラ�
 ・[広角眼底画像データセットで画像分類](https://github.com/burokoron/StaDeep/tree/master/simple_cnn_classifier)  
 　広角眼底画像データセットを対象に、単純な10層CNNで画像分類する。
 
+・[VGG以降のネットワークは本当に進歩しているの？という話](https://github.com/burokoron/StaDeep/tree/master/fine-turning)  
+　広角眼底画像データセットを対象に、単純な10層CNNで画像分類する。
+
 ### セグメンテーション
 ・[CaDIS: a Cataract Datasetで画像セグメンテーション](https://github.com/burokoron/StaDeep/tree/master/SegNet)  
 　CaDIS: a Cataract Datasetを対象に、SegNetでセマンティックセグメンテーションする。
