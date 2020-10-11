@@ -12,3 +12,8 @@
   - 3Dプリンタで全結合NNと同じ働きをする穴だらけの板を作成した
   - 入力として画像を光で与えると分類クラスによって違う位置に光が出力される
   - MNISTで実験成功
+- [The What-If Tool: Code-Free Probing of Machine Learning Models](https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html) (9月)
+  - 機械学習モデルの挙動を調査できるツール
+  - 入力データを編集することで類似データなのに分類がことなる事象などを発見できる
+  - kerasとscikit-learnで構築したモデルで使用可能
+  
