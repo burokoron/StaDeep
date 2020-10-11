@@ -20,3 +20,8 @@
   - 機械学習モデルの挙動を調査できるツール
   - 入力データを編集することで類似データなのに分類がことなる事象などを発見できる
   - kerasとscikit-learnで構築したモデルで使用可能
+- [PySyft](https://github.com/OpenMined/PySyft) (11月)
+  - フェデレーテッドラーニング、差分プライバシー、暗号化計算がライブラリ
+  - PyTorchやTensorFlowなどで使用可能
+  - [論文](https://arxiv.org/abs/1811.04017)
+  
