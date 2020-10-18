@@ -16,3 +16,7 @@
   - [Part.5](https://medium.com/programming-soda/graph-convolution%E3%81%A7%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%82%92%E8%A1%8C%E3%81%86-%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E5%88%86%E9%A1%9E%E7%B7%A8-part5-end-cc9b0b4aac06):グラフ作成法の改善
   - [Part.6](https://medium.com/programming-soda/graph-convolution%E3%82%92%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%AB%E5%BF%9C%E7%94%A8%E3%81%99%E3%82%8B-part6-f4596b2bcc93):自然言語処理にGraph Convolutionを利用した論文まとめ
   - [Part.7](https://medium.com/programming-soda/graph-convolution%E3%82%92%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%81%AB%E5%BF%9C%E7%94%A8%E3%81%99%E3%82%8B-part7-end-3f6812ca08cf):まとめ
+- [言語モデルの性能が、実装により異なる件を解決する](https://medium.com/programming-soda/%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E6%80%A7%E8%83%BD%E3%81%8C-%E5%AE%9F%E8%A3%85%E3%81%AB%E3%82%88%E3%82%8A%E7%95%B0%E3%81%AA%E3%82%8B%E4%BB%B6%E3%82%92%E8%A7%A3%E6%B1%BA%E3%81%99%E3%82%8B-5d36c841fcac) (10月)
+  - Deep Learning フレームワークによって言語モデルの性能が異なるという話
+  - ある系列長を与えると次の系列を予測する方法に比べて固定長系列を与える方式は精度が悪い
+  - 逐次的に次の系列を予測させることで差異を減らすことができる
