@@ -24,4 +24,11 @@
   - フェデレーテッドラーニング、差分プライバシー、暗号化計算がライブラリ
   - PyTorchやTensorFlowなどで使用可能
   - [論文](https://arxiv.org/abs/1811.04017)
-  
+- [pytorchをさくっと学べるチュートリアル](https://github.com/pukkapies/dl-imperial-maths/tree/master/pytorch-tutorial) (11月)
+  - [Part.0](https://github.com/pukkapies/dl-imperial-maths/blob/master/pytorch-tutorial/0.%20Computation%20Graphs.ipynb)：Computation Graphs
+    - 計算グラフの構築
+    - 入力を表示し、Webからランダムな猫画像を取得・表示する
+  - [Part.1](https://github.com/pukkapies/dl-imperial-maths/blob/master/pytorch-tutorial/1.%20Object%20Classification%20with%20CNNs.ipynb)：Object Classification with CNNs
+    - CIFAR-10を用いて画像分類
+    - 単純な6層CNNを構築してCPUで学習
+    - ResNeXt14を構築してGPUで学習
