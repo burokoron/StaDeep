@@ -32,3 +32,11 @@
     - CIFAR-10を用いて画像分類
     - 単純な6層CNNを構築してCPUで学習
     - ResNeXt14を構築してGPUで学習
+  - [Part.2](https://github.com/pukkapies/dl-imperial-maths/blob/master/pytorch-tutorial/2.%20Question%20Answering%20with%20RNNs.ipynb)：Question Answering with RNNs
+    - RNNを使用したQAタスクを解くネットワークの構築
+    - bAbIデータセットを用いる
+    - Attentionを利用した判断根拠の可視化
+  - [Part.3](https://github.com/pukkapies/dl-imperial-maths/blob/master/pytorch-tutorial/3.%20Saliency%20Maps%2C%20Feature%20Visualisation%20and%20Adversarial%20Examples.ipynb)：Saliency Maps, Feature Visualisation and Adversarial Examples
+    - 画像分類における判断基準の可視化
+    - 画像のスタイル変換
+    - 画像の敵対的攻撃
