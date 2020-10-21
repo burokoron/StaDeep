@@ -40,3 +40,7 @@
     - 画像分類における判断基準の可視化
     - 画像のスタイル変換
     - 画像の敵対的攻撃
+  - [Part.4](https://github.com/pukkapies/dl-imperial-maths/blob/master/pytorch-tutorial/4.%20Generative%20Modelling%20with%20VAEs%2C%20GANs%20and%20Autoregressive%20Models.ipynb)：Generative Modelling with VAEs, GANs and Autoregressive Models
+    - 画像生成モデルの構築・学習
+    - VAE, GAN, 自己回帰モデルの構築・学習
+    - それぞれの生成モデルが生成する画像の違いを確認
