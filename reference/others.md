@@ -44,3 +44,9 @@
     - 画像生成モデルの構築・学習
     - VAE, GAN, 自己回帰モデルの構築・学習
     - それぞれの生成モデルが生成する画像の違いを確認
+  - [Part.5](https://github.com/pukkapies/dl-imperial-maths/blob/master/pytorch-tutorial/5.%20Discrete%20and%20Continuous%20Control%20with%20A2C%20and%20PPO.ipynb)：
+Discrete and Continuous Control with A2C and PPO
+    - OpenAI Gymを使って強化学習を行う
+    - ゲームはCartPoleとPendulumを対象とする
+    - 強化学習アルゴリズムのA2CとPPOを実装して実験
+    
