@@ -49,4 +49,3 @@ Discrete and Continuous Control with A2C and PPO
     - OpenAI Gymを使って強化学習を行う
     - ゲームはCartPoleとPendulumを対象とする
     - 強化学習アルゴリズムのA2CとPPOを実装して実験
-    
