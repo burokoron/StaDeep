@@ -16,3 +16,8 @@
   - チェスなどのゼロサムゲームのAI性能は対戦相手との相対的強さで評価される
   - このようなゲームは相性問題により三すくみ関係が発生し真の強さ評価が難しい
   - ナッシュ均衡に基づくPSROrNを提案し、 BlottoおよびDifferentiable Lottで高性能を達成
+- [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995) (1月)
+  - 探索系のゲームであるMontezuma’s RevengeとPitfallで人間のエキスパートを超えた手法
+  - 以前の探索を記憶しておき、再スタート時には記憶をもとに以前の状況まで戻ってくることで効率化している
+  - 模倣学習も組み込んでおり、ゲーム以外のロボット工学などに応用できる可能性がある
+  
