@@ -12,7 +12,7 @@
 
 ## 2019年
 
-- [Open-ended Learning in Symmetric Zero-sum Games](https://arxiv.org/abs/1901.08106)
+- [Open-ended Learning in Symmetric Zero-sum Games](https://arxiv.org/abs/1901.08106) (1月)
   - チェスなどのゼロサムゲームのAI性能は対戦相手との相対的強さで評価される
   - このようなゲームは相性問題により三すくみ関係が発生し真の強さ評価が難しい
   - ナッシュ均衡に基づくPSROrNを提案し、 BlottoおよびDifferentiable Lottで高性能を達成
