@@ -8,6 +8,9 @@ Deep Learningを勉強する上で参考になる論文・資料・ライブラ�
 - [AI-SCHOLAR_TV](https://www.youtube.com/channel/UCiIEyIvEDUx6wI0e0ZqdHug)  
 　AI論文まとめサイトのYouTubeチャンネル
 
+- [PapersWith Code](https://paperswithcode.com/sota)  
+  機械学習タスクごとのSOTAがまとめられているサイト
+
 ## 解説記事
 ### 画像分類
 - [広角眼底画像データセットで画像分類](https://github.com/burokoron/StaDeep/tree/master/Image_classification/simple_cnn_classifier)  
