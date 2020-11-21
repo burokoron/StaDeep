@@ -1,6 +1,7 @@
 # その他雑多な論文・ライブラリ等まとめ
 
 [2018年](#2018年)
+[2019年](#2019年)
 
 ## 2018年
 
@@ -49,3 +50,11 @@ Discrete and Continuous Control with A2C and PPO
     - OpenAI Gymを使って強化学習を行う
     - ゲームはCartPoleとPendulumを対象とする
     - 強化学習アルゴリズムのA2CとPPOを実装して実験
+
+## 2019年
+
+- [TSNE-CUDA](https://github.com/CannyLab/tsne-cuda) (2月)
+  - GPUで動くT-SNEライブラリ
+  - scikit-learnより1200倍高速
+  - 使い方はscikit-learnと同じ
+  
