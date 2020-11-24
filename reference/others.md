@@ -61,4 +61,8 @@ Discrete and Continuous Control with A2C and PPO
   - GPUで動くT-SNEライブラリ
   - scikit-learnより1200倍高速
   - 使い方はscikit-learnと同じ
+- [Albumentations](https://github.com/albumentations-team/albumentations) (3月)
+  - 画像を対象としたData Augmentationライブラリ
+  - セグメンテーション、物体検出、キーポイントなどにも対応している
+  - Kerasより10倍以上高速
   
