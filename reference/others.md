@@ -50,6 +50,10 @@ Discrete and Continuous Control with A2C and PPO
     - OpenAI Gymを使って強化学習を行う
     - ゲームはCartPoleとPendulumを対象とする
     - 強化学習アルゴリズムのA2CとPPOを実装して実験
+- [WaveRNN + VQ-VAE](https://github.com/mkotha/WaveRNN) (11月)
+  - VQ-VAEとWaveRNNで音声話者変換を行う
+  - データセットにVCTKを用い、PyTorchで実装されている
+  - どちらのネットワークも論文ままだと上手くいかなかったため、変更が加えられている
 
 ## 2019年
 
