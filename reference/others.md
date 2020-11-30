@@ -69,4 +69,8 @@ Discrete and Continuous Control with A2C and PPO
   - CNNの判断根拠を可視化する手法の紹介
   - 従来は単一画像での可視化だったが、本手法では複数画像で可視化を行っている
   - [論文](https://distill.pub/2019/activation-atlas/)、[実装](https://github.com/tensorflow/lucid/#activation-atlas-notebooks)、[デモ](https://distill.pub/2019/activation-atlas/app.html)
+- [TensorFlow Federated](https://github.com/tensorflow/federated) (3月)
+  - 病院のようなデータを外部に出せない状況でも疑似的にデータを統合して学習できる手法であるFederated LearningのTensorFlow実装
+  - 初出はキーボードの予測変換タスク、[ブログ](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+  - [チュートリアル](https://www.tensorflow.org/federated)も充実している
   
