@@ -65,4 +65,8 @@ Discrete and Continuous Control with A2C and PPO
   - 画像を対象としたData Augmentationライブラリ
   - セグメンテーション、物体検出、キーポイントなどにも対応している
   - Kerasより10倍以上高速
+- [Introducing Activation Atlases](https://openai.com/blog/introducing-activation-atlases/) (3月)
+  - CNNの判断根拠を可視化する手法の紹介
+  - 従来は単一画像での可視化だったが、本手法では複数画像で可視化を行っている
+  - [論文](https://distill.pub/2019/activation-atlas/)、[実装](https://github.com/tensorflow/lucid/#activation-atlas-notebooks)、[デモ](https://distill.pub/2019/activation-atlas/app.html)
   
