@@ -16,3 +16,8 @@
   - GANのサーベイ
   - 代表的なGANおよび性能評価方法の紹介
   - GANの実装が公開されているリポジトリなどの紹介
+
+- [Pixyz](https://github.com/masa-su/pixyz) (3月)
+  - PyTorchで実装された生成モデルライブラリ
+  - 生成モデルを実装・学習しやすくするAPIが利用できる
+  - Pixyzで実装されたモデル群である[Pixyzoo](https://github.com/masa-su/pixyzoo)もある
