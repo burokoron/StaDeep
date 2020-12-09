@@ -20,6 +20,7 @@ Deep Learningを勉強する上で参考になる論文・資料・ライブラ�
 - [強化学習](reference/reinforcement.md)
 - [蒸留](reference/distillation.md)
 - [AutoML](reference/AutoML.md)
+- [Vision & Language](reference/Vision-and-Language)
 - [その他](reference/others.md)
 
 ## 解説記事
