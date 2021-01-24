@@ -77,3 +77,7 @@ Discrete and Continuous Control with A2C and PPO
   - Kaggleの[Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground)コンペの参戦記および上位解法の紹介
   - クジラの尻尾が登録済のどのクジラか同定する。未登録尻尾多数という実践的タスク
   - 顔認証などで多用されるメトリックラーニングが主流だった
+- [Deep Learning Models](https://github.com/rasbt/deeplearning-models) (6月)
+  - TensorFlowやPyTorchでDeep Learning実装jupyter notebook集(ほぼPytorch)
+  - 画像分類、オートエンコーダー、GANなど充実している
+  - モデルだけでなくデータセット操作例集などもある
