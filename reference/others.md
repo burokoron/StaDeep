@@ -1,7 +1,7 @@
 # その他雑多な論文・ライブラリ等まとめ
 
-[2018年](#2018年)
-[2019年](#2019年)
+- [2018年](#2018年)
+- [2019年](#2019年)
 
 ## 2018年
 
@@ -77,4 +77,3 @@ Discrete and Continuous Control with A2C and PPO
   - Kaggleの[Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground)コンペの参戦記および上位解法の紹介
   - クジラの尻尾が登録済のどのクジラか同定する。未登録尻尾多数という実践的タスク
   - 顔認証などで多用されるメトリックラーニングが主流だった
-  
