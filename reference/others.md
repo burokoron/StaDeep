@@ -73,4 +73,8 @@ Discrete and Continuous Control with A2C and PPO
   - 病院のようなデータを外部に出せない状況でも疑似的にデータを統合して学習できる手法であるFederated LearningのTensorFlow実装
   - 初出はキーボードの予測変換タスク、[ブログ](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
   - [チュートリアル](https://www.tensorflow.org/federated)も充実している
+- [Humpback whale identification challenge反省会](https://www.slideshare.net/ren4yu/humpback-whale-identification-challenge) (3月)
+  - Kaggleの[Humpback Whale Identification Challenge](https://www.kaggle.com/c/whale-categorization-playground)コンペの参戦記および上位解法の紹介
+  - クジラの尻尾が登録済のどのクジラか同定する。未登録尻尾多数という実践的タスク
+  - 顔認証などで多用されるメトリックラーニングが主流だった
   
