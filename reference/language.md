@@ -28,4 +28,8 @@
   - 66言語(日本語含む)に対応した形態素解析・係り受け解析ライブラリ
   - neural networkベースでPyTorchで実装されている
   - 英語のみだが医学用語にも対応している
+- [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2) (3月)
+  - TensorFlow 2.0のtf.kerasを使用してTransformerを実装するチュートリアル
+  - Transformerベースのチャットボットを作成している
+  - コードは約500行程度とシンプルになっている
   
